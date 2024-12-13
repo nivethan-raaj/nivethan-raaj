@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Nivethan Raaj</h1>
+<h1 align="center">Hi , I'm Nivethan Raaj T</h1>
 <h3 align="center">A Passionate Full - Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **Full Stack Development - Clone of Web Apps**
