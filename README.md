@@ -1,19 +1,9 @@
 <h1 align="center">Hi , I'm Nivethan Raaj T</h1>
 <h3 align="center">A Passionate Full - Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack Development - Clone of Web Apps**
-
-- 🌱 I’m currently learning **MERN Stack and DSA using JAVA**
-
-- 👯 I’m looking to collaborate on **Dev Ops and Cloud Deployment**
-
-- 🤝 I’m looking for help with **Front End Design Suggestions**
-
-- 💬 Ask me about **MERN Stack, Cloud Computing, Version Control**
-
 - 📫 How to reach me **nivethanraajt@gmail.com**
 
-- 📄 Know about my experiences [https://nivethanraajtresume.tiiny.site](https://nivethanraajtresume.tiiny.site)
+- 📄 Know about my experiences [https://nivethan-portfolio2025.vercel.app](https://nivethan-portfolio2025.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
